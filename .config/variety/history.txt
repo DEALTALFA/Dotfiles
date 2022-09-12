@@ -1,0 +1,4 @@
+0
+/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg
+/usr/share/backgrounds/arcolinux/arco-login-plasma.jpg
+/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg
