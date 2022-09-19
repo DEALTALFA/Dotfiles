@@ -1,4 +1,4 @@
-call plug#begin('~/.config/nvim/autoload/plugged') 		" create this path in autoload
+call plug#begin('~/.config/nvim/autoload/plugged')
 
 "{{ The Basics }}
 
@@ -23,7 +23,11 @@ call plug#begin('~/.config/nvim/autoload/plugged') 		" create this path in autol
 
 call plug#end()
 
-
+"<<<<<	NERDTREE SETTING   <<<<<<<<
 nnoremap <C-f> :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
+
+let NERDTreeShowHidden=1
+
+">>>>>>>> NERDTREE COMPLETE   >>>>>>>>>>
