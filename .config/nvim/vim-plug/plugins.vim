@@ -1,4 +1,4 @@
-call plug#begin('~/.config/nvim/autoload/plugged')
+call plug#begin('~/.config/nvim/autoload/plugged')  		" create this path in autoload
 
 "{{ The Basics }}
 
