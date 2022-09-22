@@ -30,4 +30,4 @@ workflows:
   Test-workflow:
     jobs:
       - Test
-  
+      - Deploy
